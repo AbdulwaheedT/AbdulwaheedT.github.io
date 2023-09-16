@@ -31,6 +31,7 @@
 
 ## Projects
 **Analyzing stock performance and building a dashboard**
+---
 [Project Link](https://github.com/AbdulwaheedT/Analyzing-stock-performance-and-building-a-dashboard.git)
 
 Throughout the duration of this task, I undertook the role of a Data Scientist / Data Analyst engaged in a practical, real-world project. I demonstrated proficiency in Python, a widely utilized programming language renowned for its application in data science and analysis. Python programming language and other libraries were used, including Pandas, Beautiful Soup, and Plotly.

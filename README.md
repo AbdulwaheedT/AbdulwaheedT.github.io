@@ -4,7 +4,9 @@
 
 ## Education							       		
 - 2019 - 2021
+
   MSc in Civil Engineering (Geoinformatics) at University of Technology Petronas, Malaysia
+
   **Thesis:** Air Pollution Modelling in Malaysia Using GIS and Machine Learning Algorithms	 			        		
 - 2012 - 2017
   BTech in Remote Sensing and GIS at Federal University of Technology Akure, Nigeria

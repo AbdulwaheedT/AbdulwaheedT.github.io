@@ -31,6 +31,8 @@
 
 ## Projects
 **Analyzing stock performance and building a dashboard**
+
+---
 ---
 [Project Link](https://github.com/AbdulwaheedT/Analyzing-stock-performance-and-building-a-dashboard.git)
 

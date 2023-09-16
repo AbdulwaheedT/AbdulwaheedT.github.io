@@ -37,7 +37,7 @@ Throughout the duration of this task, I undertook the role of a Data Scientist /
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Publications (* indicates the corresponding author)
+## Publications 
 1.	Tella, A.*, Balogun, AL. GIS-based air quality modelling: spatial prediction of PM10 for Selangor State, Malaysia using machine learning algorithms. Environ Sci Pollut Res (2021). [DOI: 10.1007/s11356-021-16150-0 ](https://doi.org/10.1007/s11356-021-16150-0)
 2.	Tella, A.*, A.-L. Balogun, N. Adebisi, and S. Abdullah. 2021. 'Spatial assessment of PM10 hotspots using random forest, K-Nearest Neighbour and Naïve Bayes', Atmospheric Pollution Research: 101202. [DOI: 10.1016/j.apr.2021.101202 ](https://doi.org/10.1016/j.apr.2021.101202)
 3.	Tella, A., A.-L. Balogun, and I. Faye (2021) Spatio-temporal modelling of the influence of climatic variables and seasonal variation on PM10 in Malaysia using multivariate regression (MVR) and GIS, Geomatics, Natural Hazards and Risk, 12:1, 443-468. [DOI: 10.1080/19475705.2021.1879942](https://doi.org/10.1080/19475705.2021.1879942)

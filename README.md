@@ -5,18 +5,19 @@
 ## Education							       		
 - 2019 - 2021 |
 
-  **MSc in Civil Engineering (Geoinformatics) at University of Technology Petronas, Malaysia** |
+  **MSc in Civil Engineering (Geoinformatics) at the University of Technology Petronas, Malaysia** |
 
   **Thesis:** Air Pollution Modelling in Malaysia Using GIS and Machine Learning Algorithms
   			        		
 - 2012 - 2017 |
   **BTech in Remote Sensing and GIS at the Federal University of Technology Akure, Nigeria** |
+  
   **Dissertation:** Flood Susceptibility Mapping Using GIS and Multi-Criteria Decision Analysis (MCDA)
   
 ## Research Experience
-**Research Scientist at Foresight Institute of Research and Translation, Nigeria (_2018 - Present_)**
-•	Planned and implemented undergraduate conference.
-•	Conducted environmental sustainability-related research
+**Research Scientist at Foresight Institute of Research and Translation, Nigeria (_2018 - Present_)**|
+- Planned and implemented undergraduate conference.
+- Conducted environmental sustainability-related research
 
 
 **Graduate Research at Geospatial Analysis and Modelling (GAM) Research Laboratory, Department of Civil & Environmental Engineering, Universiti Teknologi Petronas, Malaysia (_2019 - 2021_)**

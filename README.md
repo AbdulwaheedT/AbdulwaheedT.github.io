@@ -3,7 +3,7 @@
 #### Technical Skills: Data Visualization, Excel, Python, Spatial Analysis, Spatial Data Science, Machine learning, SQL
 
 ## Education							       		
-- **MSc in Civil Engineering (Geoinformatics) at the University of Technology Petronas, Malaysia (_2019 - 2021)**
+- **MSc in Civil Engineering (Geoinformatics) at the University of Technology Petronas, Malaysia (_2019 - 2021_)**
   >>
   **Thesis:** Air Pollution Modelling in Malaysia Using GIS and Machine Learning Algorithms
   			        		

@@ -52,7 +52,7 @@ Throughout the duration of this task, I undertook the role of a Data Scientist /
 3.	Chukwuma Okolie, Emmanuel Ayodele, Erom Mbu-Ogar, Samuel Akinnusi, Olagoke Daramola, Abdulwaheed Tella, Rose Alani, Alfred Alademomi. Remote sensing approach for aerosol optical thickness (AOT) monitoring in relation to the road network in Lagos Metropolis, Nigeria. Intercontinental Geoinformation Days (IGD), 38-41 (3), Mersin, Turkey. [https://publish.mersin.edu.tr/index.php/igd/article/view/506](https://publish.mersin.edu.tr/index.php/igd/article/view/506)
 4.	Tella A*, Balogun A & Balogun A (2020). Spatiotemporal analysis of land-use changes in a metropolitan city in Malaysia. Intercontinental Geoinformation Days (IGD), 148-151, Mersin, Turkey. [http://193.255.128.114/index.php/igd/article/view/392](http://193.255.128.114/index.php/igd/article/view/392)
 5.	Yamusa, I.B., Mohd Suhaili I., and Tella, A*. 2021. Geospatial Detection of Hidden Lithologies along Taiping to Ipoh Stretch of the Highway Using Medium Resolution Satellite Imagery in Malaysia. Journal of Advanced Geospatial Science & Technology, 1(1), 19–37. [https://jagst.utm.my/index.php/jagst/article/view/2](https://jagst.utm.my/index.php/jagst/article/view/2)
-6.	Tella, A. *, and Balogun, A.-L. (2021). Prediction of Ambient PM10 Concentration in Malaysian Cities Using Geostatistical Analyses. Journal of Advanced Geospatial Science & Technology, 1(1), 115–127. [https://jagst.utm.my/index.php/jagst/article/view/9](https://jagst.utm.my/index.php/jagst/article/view/9)https://jagst.utm.my/index.php/jagst/article/view/9
+6.	Tella, A. *, and Balogun, A.-L. (2021). Prediction of Ambient PM10 Concentration in Malaysian Cities Using Geostatistical Analyses. Journal of Advanced Geospatial Science & Technology, 1(1), 115–127. [https://jagst.utm.my/index.php/jagst/article/view/9](https://jagst.utm.my/index.php/jagst/article/view/9)
 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+

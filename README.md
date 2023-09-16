@@ -35,16 +35,6 @@ Throughout the duration of this task, I undertook the role of a Data Scientist /
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
 ## Publications (* indicates the corresponding author)
 1.	Tella, A.*, Balogun, AL. GIS-based air quality modelling: spatial prediction of PM10 for Selangor State, Malaysia using machine learning algorithms. Environ Sci Pollut Res (2021). [DOI: 10.1007/s11356-021-16150-0 ](https://doi.org/10.1007/s11356-021-16150-0)
 2.	Tella, A.*, A.-L. Balogun, N. Adebisi, and S. Abdullah. 2021. 'Spatial assessment of PM10 hotspots using random forest, K-Nearest Neighbour and Naïve Bayes', Atmospheric Pollution Research: 101202. [DOI: 10.1016/j.apr.2021.101202 ](https://doi.org/10.1016/j.apr.2021.101202)

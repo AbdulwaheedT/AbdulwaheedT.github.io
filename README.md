@@ -1,4 +1,4 @@
-# Geospatial and Data Analyst
+# Abdulwaheed Tella
 
 #### Technical Skills: Data Visualization, Excel, Python, Spatial Analysis, Spatial Data Science, Machine learning, SQL
 

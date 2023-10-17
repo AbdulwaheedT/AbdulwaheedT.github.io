@@ -2,6 +2,4 @@ title: Abdulwaheed Tella
 logo: asset/My Passport Photograph.jpg
 description: Data Analyst | Geospatial Analyst | Environmental Scientist | Researcher
 show_downloads: false
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-minimal
